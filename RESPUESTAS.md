@@ -1,4 +1,3 @@
-## EL2a
 # Explique las diferencias (si las ha habido) de los resultados obtenidos entre los dos programas de prueba.
 
 Sí hay diferencias entre los dos programas.
@@ -20,5 +19,3 @@ En el primer programa, los resultados siempre son los mismos, porque los número
 En el segundo programa, algunos resultados pueden cambiar cada vez que se ejecuta, porque el orden aleatorio puede ser distinto en cada ejecución.
 
 Lo que no cambia en la prueba aleatoria es la suma total, porque siempre se insertan los mismos números. Lo que sí puede cambiar es la altura del árbol, la raíz y el camino hasta el valor 110, porque la estructura del árbol depende del orden en el que se insertan los datos.
-
-## EL2b
