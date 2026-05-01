@@ -1,0 +1,32 @@
+{
+  "tipos": [
+    "tipo",
+    "persona",
+    "premio",
+    "lugar",
+    "profesion",
+    ""
+  ],
+  "tripletas": [
+    {
+      "s": "persona:Albert Einstein",
+      "p": "premio",
+      "o": "premio:NobelFisica"
+    },
+    {
+      "s": "persona:Albert Einstein",
+      "p": "nace_en",
+      "o": "lugar:Ulm"
+    },
+    {
+      "s": "lugar:Ulm",
+      "p": "esta_en",
+      "o": "lugar:Alemania"
+    },
+    {
+      "s": "persona:Albert Einstein",
+      "p": "profesion",
+      "o": "profesion:Fisico"
+    }
+  ]
+}
